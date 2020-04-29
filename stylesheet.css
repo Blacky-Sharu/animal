@@ -30,7 +30,7 @@ body{
 .title2{
   width: 600px;
   height: 70px;
-  font-size: 80px;
+  font-size: 60px;
   padding: 10px 10px 10px 0px;
 }
 
@@ -42,3 +42,4 @@ body{
 .message{
   padding:10px 500px;
 }
+
