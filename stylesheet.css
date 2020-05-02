@@ -2,44 +2,37 @@ body{
   background-color: #ccff99;
 }
 
-
-
-.title {
-  float: left;
-
-}
-
 .header{
   background-color:#26d0c9;
   height:250px;
-
+}
+.item{
+  width:33%;
+  float:left;
+  text-align: center;
 }
 
 .cat{
-  width: 250px;
-  height: 230px;
-  padding: 10px 100px 10px 100px;
+  height:220px;
+  width:300px;
+  padding: 20px 0 0 0;
 }
-
+.main{
+  width:400px;
+  text-align:center;
+  padding: 60px 0 0 0;
+  font-size: 50px
+}
 .cat2{
-  width: 250px;
-  height: 250px;
-  padding: 0px 0px 0px 50px;
-}
+  height:250px;
+  width:300px;
 
-.title2{
-  width: 600px;
-  height: 70px;
-  font-size: 60px;
-  padding: 10px 10px 10px 0px;
 }
 
 .coment{
   font-size:35px;
-  padding:0px 0px 0px 500px;
+  text-align: center;
 }
 
 .message{
   padding:10px 500px;
-}
-
