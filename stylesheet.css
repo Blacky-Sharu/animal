@@ -36,3 +36,7 @@ body{
 
 .message{
   padding:10px 500px;
+  background-color:#26d0c9 ;
+  height: 250px;
+  text-align: center;
+}
