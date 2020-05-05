@@ -1,42 +1,100 @@
-body{
-  background-color: #ccff99;
-}
-
 .header{
-  background-color:#26d0c9;
-  height:250px;
+  background-size: cover;
+  background-image:url(https://pakutaso.cdn.rabify.me/shared/img/top/index_top4.jpg?d=1200);
+  height:300px;
+
+}
+.container{
+  width:1500px;
+  margin:0 auto;
 }
 .item{
+
   width:33%;
+
   float:left;
+
   text-align: center;
+
 }
 
+
+
 .cat{
+
   height:220px;
+
   width:300px;
+
   padding: 20px 0 0 0;
+
 }
+
 .main{
+
   width:400px;
+
   text-align:center;
+
   padding: 60px 0 0 0;
+
   font-size: 50px
+
 }
+
 .cat2{
+
   height:250px;
+
   width:300px;
+
+
 
 }
 
 .coment{
-  font-size:35px;
-  text-align: center;
+  height: 600px;
 }
 
-.message{
-  padding:10px 500px;
-  background-color:#26d0c9 ;
-  height: 250px;
+.coment2{
+
+  font-size:35px;
+
   text-align: center;
+
+}
+.message{
+  background-color: #0066ff;
+}
+.message h1{
+  width: 100%;
+}
+.contact-form {
+  padding-top:20px;
+  margin-left:300px;
+}
+.section-titile{
+  font-size: 200px;
+}
+input {
+  width: 250px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #black;
+}
+ textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #black;
+}
+
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
 }
